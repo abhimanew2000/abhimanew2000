@@ -44,7 +44,12 @@ A passionate Python Full Stack Developer with expertise in modern web technologi
   <a href="https://github.com/abhimanew2000">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- You can add more social links here -->
+  <a href="https://www.instagram.com/__.abhimanyu.__._?igsh=MTc3ZWowcDU1aXl3aw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:abhimanew2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 <div align="center">
